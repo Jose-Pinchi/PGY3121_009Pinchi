@@ -1,2 +1,1 @@
-# PGY3121_009Pinchi
-Repositorio de pruebas
+# ET_Mascota_Jardineria_Pinchi_009D
